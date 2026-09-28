@@ -1,0 +1,11 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.log
+temp_video/
+convert_webm_to_gif.py
+record_demo.py
+node_modules/
+.DS_Store
